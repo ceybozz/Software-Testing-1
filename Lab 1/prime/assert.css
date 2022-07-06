@@ -1,0 +1,12 @@
+
+.pass:before { 
+    content: 'PASS: '; 
+    color:  blue; 
+    font-weight: bold; 
+} 
+
+.fail:before { 
+    content: 'FAIL: '; 
+    color: red; 
+    font-weight: bold; 
+} 
