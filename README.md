@@ -1,4 +1,4 @@
-# Software-Testing-1
+# Software-Testing-1 School Labs
 Mjukvarutestning 1
 
 • Computer science
